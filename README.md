@@ -28,21 +28,25 @@ MakeCode
 
 # Εργαλεία που χρησιμοποιήθηκαν
 Laptop
-Micro:bit
-Shield
-Maqueen
+
 Μαύρη ταινία
+
 Μακετόχαρτο
+
 Ξύλα και laser cutter για τα 3 σπιτάκια
-Push button
-LED
+
 
 # Υλικά και ενδεικτικό κόστος
 1 x Micro:Maqueen Lite
+
 2 x BBC micro:bit v2
+
 3 x Keyestudio push button
+
 3 x Keyestudio LED
+
 1 x Edge connector breakout board
+
 Jumper wires
 
 Εκτιμώμενο κόστος: 110 ευρώ
