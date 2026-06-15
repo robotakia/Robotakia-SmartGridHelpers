@@ -53,7 +53,7 @@ Jumper wires
 
 # Μέλη ομάδας:
 - Ευαγγελία Νόου
-- Στέφανος Μαμούνης
+- Στέφανος Μαμούνηςa
 
 Εκπαιδευτικός: Αφροδίτη Σκληβάγκου
 
@@ -61,4 +61,4 @@ Jumper wires
 
 Δείτε την παρουσίαση του έργου μας: https://youtu.be/YhiHV5TLJ_Q
 
-Θα βρείτε τη σελίδα του έργου μας: 
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2026/robotakia-smartgridhelpers-exipni-energiaki-kinotita-aftonomo-diktio-v2h-vehicle-to-home/
